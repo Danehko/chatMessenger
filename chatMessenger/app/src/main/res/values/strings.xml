@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatMessenger</string>
+    <string name="enter">Entrar</string>
+    <string name="singIn">Não tem uma conta? Crie aqui!!!</string>
+</resources>
